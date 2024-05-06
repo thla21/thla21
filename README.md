@@ -18,6 +18,8 @@
 
 ⚡ Fun fact **Mr. Robot**
 
+😎 An enthusiast in Linux, Windows and MacOS systems. In addition to being passionate about automation and passionate about Python
+
  </div>
  
 <div align="center"> 
