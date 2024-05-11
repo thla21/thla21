@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thla21.visitor-badge" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41EB68&random=false&width=435&lines=My+name+is+Thiago+Henrique.;Just+a+self-taught+person+crazy+about+technology+and+coffee.;Feel+free+to+check+out+my+profile%2C+maybe+I+have+something+that+interests+you" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41EB68&random=false&width=800&lines=My+name+is+Thiago+Henrique.;Just+a+self-taught+person+crazy+about+technology+and+coffee.;Feel+free+to+check+out+my+profile%2C+maybe+I+have+something+that+interests+you" alt="Typing SVG" />
 </a>
 
 <h3 align="center">A passionate software developer from Brazil BR</h3>
