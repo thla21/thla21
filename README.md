@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thla21.visitor-badge" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;My name is Thiago Henrique;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41EB68&random=false&width=435&lines=My+name+is+Thiago+Henrique.;Just+a+self-taught+person+crazy+about+technology+and+coffee.;Feel+free+to+check+out+my+profile%2C+maybe+I+have+something+that+interests+you+👋" />
 </h1>
 
 <h3 align="center">A passionate software developer from Brazil BR</h3>
