@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thla21.visitor-badge" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thiago+Henrique!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;My name is Thiago Henrique;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Brazil BR</h3>
@@ -38,8 +38,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=markdown,git,python,mysql,sqlite,arduino,powershell" /><br>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,ansible,terraform" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipe,github" /><br>
-    <img src="https://skillicons.dev/icons?i=windows,arch,debian,ubuntu,mint,redhat,rockylinux" />
+    <img src="https://skillicons.dev/icons?i=autocad,bash,vscode,pycharm,eclipe,github,prometheus,elasticsearch,grafana,heroku,nginx,obsidian,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=apple,windows,arch,debian,ubuntu,mint,redhat,rockylinux,kali" />
 </div>
 
 <br/>
