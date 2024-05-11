@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages | DevOps | Tools | System ⚒️</h2>
+<h2 align="center">⚒️ Tools | System | Languages | DevOps ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=atom,sublime,autocad,bash,vscode,pycharm,eclipse,github,prometheus,elasticsearch,grafana,heroku,nginx,obsidian,postgres" /><br>
