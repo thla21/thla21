@@ -36,9 +36,10 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=atom,sublime,autocad,bash,vscode,pycharm,eclipse,github,prometheus,elasticsearch,grafana,heroku,nginx,obsidian,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=apple,windows,arch,debian,ubuntu,mint,redhat,kali" /><br>
     <img src="https://skillicons.dev/icons?i=markdown,git,python,mysql,sqlite,arduino,powershell" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,ansible,terraform,jenkins" /><br>
-    <img src="https://skillicons.dev/icons?i=apple,windows,arch,debian,ubuntu,mint,redhat,kali" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,ansible,terraform,jenkins" />
+    
 </div>
 
 <br/>
