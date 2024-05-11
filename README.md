@@ -36,10 +36,10 @@
 <h2 align="center">⚒️ Languages | DevOps | Tools | System ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,python,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=markdown,git,python,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,ansible,terraform" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipe,github" /><br>
-    <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,mint,redhat,almalinux,vanila" />
+    <img src="https://skillicons.dev/icons?i=windows,arch,debian,ubuntu,mint,redhat,almalinux,vanila" />
 </div>
 
 <br/>
