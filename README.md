@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=git,python,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,ansible,terraform" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipe,github" /><br>
-    <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,centos,redhat,almalinux" />
+    <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,mint,redhat,almalinux,vanila" />
 </div>
 
 <br/>
