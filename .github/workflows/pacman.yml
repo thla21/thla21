@@ -11,14 +11,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: plantane/snk/svg-only@3
+      - uses: Plantane/snk/svg-only@3
         with:
           github_user_name: thla21
           outputs: |
             dist/only-svg/github-contribution-grid-snake.svg
             dist/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: plantane/snk@3
+      - uses: Plantane/snk@3
         with:
           github_user_name: thla21
           outputs: |
