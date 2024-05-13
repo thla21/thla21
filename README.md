@@ -69,11 +69,17 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=305 src="https://github-readme-streak-stats-salesp07.vercel.app?user=thla21&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=181818&border_radius=10&fire=8537a3&ring=8537a3&currStreakLabel=8537a3" alt="streak stats"/>
+  <img width=307 src="https://github-readme-streak-stats-salesp07.vercel.app?user=thla21&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=181818&border_radius=10&fire=8537a3&ring=8537a3&currStreakLabel=8537a3" alt="streak stats"/>
   <img width=290 src="https://github-readme-stats.vercel.app/api?username=thla21&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thla21&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=312 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thla21&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
 <br>
+
+<hr/>
+
+<br>
+
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
