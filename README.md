@@ -22,7 +22,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:thiagoheniquela.21@gmail.com">
+  <a href="mailto:thiagoheniquela.21@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/thiago-henrique-linhares-de-ara%C3%BAjo-6739a4202/" target="_blank">
