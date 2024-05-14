@@ -71,7 +71,7 @@
 <div align=center>
   <img width=250 src="https://github-readme-streak-stats-salesp07.vercel.app?user=thla21&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=181818&border_radius=10&fire=8537a3&ring=8537a3&currStreakLabel=8537a3" alt="streak stats"/>
   <img width=235 src="https://github-readme-stats.vercel.app/api?username=thla21&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thla21&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=253 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thla21&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <hr/>
