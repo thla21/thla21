@@ -20,7 +20,12 @@
 😎 An enthusiast in Linux, Windows and MacOS systems. In addition to being passionate about automation and passionate about Python
 
  </div>
- 
+
+[![portfolio](https://img.shields.io/badge/portfolio-181818?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/thla21/)
+[![gmail](https://img.shields.io/badge/gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:thiagoheniquela.21@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-linhares-de-ara%C3%BAjo-6739a4202/)
+[![youtube](https://img.shields.io/badge/youtube-F9F9F9?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/kePxRO98lEY)
+
 <div align="center"> 
   <a href="mailto:thiagoheniquela.21@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
