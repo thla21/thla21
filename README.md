@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thla21.visitor-badge" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=41EB68&center=true&random=false&width=1000&lines=I'm+Thiago+Henrique.;Just+a+self-taught+person+crazy+about+technology+and+coffee.;Feel+free+to+check+out+my+profile%2C+maybe+I+have+something+that+interests+you" alt="Typing SVG" />
@@ -61,21 +65,38 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
-<div align=center>
-  <img width=250 src="https://github-readme-streak-stats-salesp07.vercel.app?user=thla21&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=181818&border_radius=10&fire=8537a3&ring=8537a3&currStreakLabel=8537a3" alt="streak stats"/>
-  <img width=235 src="https://github-readme-stats.vercel.app/api?username=thla21&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=253 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thla21&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<p align="center">
+  <a href="https://github.com/thla21">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thla21&theme=midnight_purple&border=7F3FBF&background=0D1117" alt="thla21 GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thla21">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thla21&theme=midnight_purple&border=7F3FBF&background=0D1117" alt="Thiago Henrique GitHub Contribution"/>
+  </a>
+</p>
+
+<p align=center>
+  <a href="https://github.com/thla21">
+   <img src="https://github-readme-stats.vercel.app/api?username=thla21&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border=7F3FBF&border_radius=10&background=0D1117" alt="readme stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thla21&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" height="192px" width="49.5%"/>
+  </a>
+</p> 
+
+![thla21 Graph](https://github-readme-activity-graph.vercel.app/graph?username=thla21&custom_title=Thiago%20Henrique%20GitHub%20Activity%20Graph&bg_color=0D1117color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&border=7F3FBF&title_color=FFFFFF&area=true)
 
 <hr/>
 
-<h2 align="center">Some Projects :</h2>
+<h2 align="center">Some Projects</h2>
 
+<div align="center">
+ 
 [![github](https://img.shields.io/badge/TricksAndTips-272727?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/thla21/TricksAndTips)
 [![github](https://img.shields.io/badge/Debian-272727?style=for-the-badge&logo=shell&logoColor=white)](https://github.com/thla21/Debian)
 [![github](https://img.shields.io/badge/Git-272727?style=for-the-badge&logo=git&logoColor=white)](https://github.com/thla21/Git)
-
 
 <br>
 
