@@ -76,16 +76,16 @@
 <br> 
 <p align="center">
   <a href="https://github.com/thla21">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thla21&theme=midnight_purple&border=7F3FBF&background=0D1117" alt="Thiago Henrique GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thla21&theme=midnight_purple&border_color=7F3FBF&background=0D1117" alt="Thiago Henrique GitHub Contribution"/>
   </a>
 </p>
 
 <a href="https://github.com/thla21">
-   <img src="https://github-readme-stats.vercel.app/api?username=thla21&count_private=true&show_icons=true&rank_icon=github&theme=midnight-purple&border=7F3FBF&background=0D1117" alt="readme stats"/></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thla21&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border=7F3FBF&background=0D1117&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" height="192px" width="49.5%"/></a>
+   <img src="https://github-readme-stats.vercel.app/api?username=thla21&count_private=true&show_icons=true&rank_icon=github&theme=midnight-purple&border_color=7F3FBF&background=0D1117" alt="readme stats"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thla21&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_color=7F3FBF&background=0D1117&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" height="192px" width="49.5%"/></a>
 <br/>
 
-![thla21 Graph](https://github-readme-activity-graph.vercel.app/graph?username=thla21&custom_title=Thiago%20Henrique%20GitHub%20Activity%20Graph&bg_color=0D1117color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&border=7F3FBF&title_color=FFFFFF&area=true)
+![thla21 Graph](https://github-readme-activity-graph.vercel.app/graph?username=thla21&custom_title=Thiago%20Henrique%20GitHub%20Activity%20Graph&border_radius=10&bg_color=0D1117color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&border-color:7F3FBF&title_color=FFFFFF&area=true)
 
 <hr/>
 
@@ -98,8 +98,8 @@
 [![github](https://img.shields.io/badge/Git-272727?style=for-the-badge&logo=git&logoColor=white)](https://github.com/thla21/Git)
 
 [![TricksAndTips](https://github-readme-stats.vercel.app/api/pin/?username=thla21&repo=TricksAndTips&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thla21/TricksAndTips)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
+[![Debian](https://github-readme-stats.vercel.app/api/pin/?username=thla21&repo=Debian&logo=debian&logocolor=purple&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thla21/Debian)
+[![Python](https://github-readme-stats.vercel.app/api/pin/?username=thla21&repo=Python&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon=python&icon_color=7F3FBF)](https://github.com/thla21/Python)
 
 
 
