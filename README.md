@@ -1,8 +1,3 @@
-<p>Confira o <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
-
-
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thla21.visitor-badge" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=41EB68&center=true&random=false&width=1000&lines=I'm+Thiago+Henrique.;Just+a+self-taught+person+crazy+about+technology+and+coffee.;Feel+free+to+check+out+my+profile%2C+maybe+I+have+something+that+interests+you" alt="Typing SVG" />
