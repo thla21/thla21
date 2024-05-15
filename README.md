@@ -70,6 +70,13 @@
 
 <hr/>
 
+<h2 align="center">Some Projects :</h2>
+
+[![github](https://img.shields.io/badge/TricksAndTips-272727?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/thla21/TricksAndTips)
+[![github](https://img.shields.io/badge/Debian-272727?style=for-the-badge&logo=shell&logoColor=white)](https://github.com/thla21/Debian)
+[![github](https://img.shields.io/badge/Git-272727?style=for-the-badge&logo=git&logoColor=white)](https://github.com/thla21/Git)
+
+
 <br>
 
 <div align="center">
