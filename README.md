@@ -73,18 +73,17 @@
   </a>
 </p>
 
+<br> 
 <p align="center">
   <a href="https://github.com/thla21">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thla21&theme=midnight_purple&border=7F3FBF&background=0D1117" alt="Thiago Henrique GitHub Contribution"/>
   </a>
 </p>
 
-<p align=center>
-  <a href="https://github.com/thla21">
-   <img src="https://github-readme-stats.vercel.app/api?username=thla21&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border=7F3FBF&border_radius=10&background=0D1117" alt="readme stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thla21&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" height="192px" width="49.5%"/>
-  </a>
-</p> 
+<a href="https://github.com/thla21">
+   <img src="https://github-readme-stats.vercel.app/api?username=thla21&count_private=true&show_icons=true&rank_icon=github&theme=midnight-purple&border=7F3FBF&background=0D1117" alt="readme stats"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thla21&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border=7F3FBF&background=0D1117&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" height="192px" width="49.5%"/></a>
+<br/>
 
 ![thla21 Graph](https://github-readme-activity-graph.vercel.app/graph?username=thla21&custom_title=Thiago%20Henrique%20GitHub%20Activity%20Graph&bg_color=0D1117color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&border=7F3FBF&title_color=FFFFFF&area=true)
 
