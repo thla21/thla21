@@ -97,6 +97,12 @@
 [![github](https://img.shields.io/badge/Debian-272727?style=for-the-badge&logo=shell&logoColor=white)](https://github.com/thla21/Debian)
 [![github](https://img.shields.io/badge/Git-272727?style=for-the-badge&logo=git&logoColor=white)](https://github.com/thla21/Git)
 
+[![TricksAndTips](https://github-readme-stats.vercel.app/api/pin/?username=thla21&repo=TricksAndTips&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thla21/TricksAndTips)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
+
+
+
 <br>
 
 <div align="center">
