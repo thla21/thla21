@@ -33,18 +33,18 @@
 <h2 align="center">⚒️ Tools | System | Languages | DevOps ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=atom,sublime,autocad,bash,vscode,pycharm,eclipse,github,prometheus,elasticsearch,grafana,heroku,nginx,obsidian,postgres" /><br>
-  <img src="https://skillicons.dev/icons?i=apple,windows,linux,arch,debian,ubuntu,mint,redhat,kali" /><br>
-  <img src="https://skillicons.dev/icons?i=markdown,git,python,mysql,sqlite,arduino,powershell,neovim" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,ansible,terraform,jenkins" />
-    
+  <img src="https://skillicons.dev/icons?i=atom,sublime,autocad,bash,vscode,pycharm,eclipse,github,prometheus,elasticsearch,grafana,heroku,nginx,obsidian,postgres,pr,postman,apple,windows,linux,arch,debian,ubuntu,mint,redhat,kali,raspberrypi,markdown,git,python" /> 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,arduino,powershell,neovim,perl,docker,kubernetes,aws,gcp,ansible,terraform,jenkins" />
+  
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Contributions 🐍</h2>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -83,6 +83,7 @@
 <a href="https://github.com/thla21">
    <img src="https://github-readme-stats.vercel.app/api?username=thla21&count_private=true&show_icons=true&rank_icon=github&theme=midnight-purple&border_color=7F3FBF&background=0D1117" alt="readme stats"/></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thla21&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_color=7F3FBF&background=0D1117&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" height="192px" width="49.5%"/></a>
+
 <br/>
 
 ![thla21 Graph](https://github-readme-activity-graph.vercel.app/graph?username=thla21&custom_title=Thiago%20Henrique%20GitHub%20Activity%20Graph&border_radius=10&bg_color=0D1117color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&border-color:7F3FBF&title_color=FFFFFF&area=true)
@@ -93,15 +94,9 @@
 
 <div align="center">
  
-[![github](https://img.shields.io/badge/TricksAndTips-272727?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/thla21/TricksAndTips)
-[![github](https://img.shields.io/badge/Debian-272727?style=for-the-badge&logo=shell&logoColor=white)](https://github.com/thla21/Debian)
-[![github](https://img.shields.io/badge/Git-272727?style=for-the-badge&logo=git&logoColor=white)](https://github.com/thla21/Git)
-
 [![TricksAndTips](https://github-readme-stats.vercel.app/api/pin/?username=thla21&repo=TricksAndTips&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thla21/TricksAndTips)
 [![Debian](https://github-readme-stats.vercel.app/api/pin/?username=thla21&repo=Debian&logo=debian&logocolor=purple&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thla21/Debian)
 [![Python](https://github-readme-stats.vercel.app/api/pin/?username=thla21&repo=Python&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon=python&icon_color=7F3FBF)](https://github.com/thla21/Python)
-
-
 
 <br>
 
