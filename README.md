@@ -33,10 +33,10 @@
 <h2 align="center">⚒️ Tools | System | Languages | DevOps ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=atom,sublime,autocad,bash,vscode,pycharm,eclipse,github,prometheus,elasticsearch,grafana,heroku,nginx,obsidian,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=apple,windows,linux,arch,debian,ubuntu,mint,redhat,kali" /><br>
-    <img src="https://skillicons.dev/icons?i=markdown,git,python,mysql,sqlite,arduino,powershell" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,ansible,terraform,jenkins" />
+  <img src="https://skillicons.dev/icons?i=atom,sublime,autocad,bash,vscode,pycharm,eclipse,github,prometheus,elasticsearch,grafana,heroku,nginx,obsidian,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=apple,windows,linux,arch,debian,ubuntu,mint,redhat,kali" /><br>
+  <img src="https://skillicons.dev/icons?i=markdown,git,python,mysql,sqlite,arduino,powershell,neovim" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,ansible,terraform,jenkins" />
     
 </div>
 
