@@ -95,8 +95,6 @@
 <div align="center">
  
 [![TricksAndTips](https://github-readme-stats.vercel.app/api/pin/?username=thla21&repo=TricksAndTips&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thla21/TricksAndTips)
-[![Debian](https://github-readme-stats.vercel.app/api/pin/?username=thla21&repo=Debian&logo=debian&logocolor=purple&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thla21/Debian)
-[![Python](https://github-readme-stats.vercel.app/api/pin/?username=thla21&repo=Python&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon=python&icon_color=7F3FBF)](https://github.com/thla21/Python)
 
 <br>
 
