@@ -46,20 +46,7 @@
 <div align="center">
   <h2>🐍 Contributions 🐍</h2>
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/thla21/thla21/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/thla21/thla21/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/thla21/thla21/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
-    />
-  </picture>
-  <br/><br/><br/>
+  <img src="https://github.com/user-attachments/assets/b6283778-c176-4117-8420-b2cecee8cc78" width="600" />
 </div>
 
 <hr/>
