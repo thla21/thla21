@@ -45,9 +45,9 @@
 
 <div align="center">
   <h2>🐍 Contributions 🐍</h2>
-  <picture>
-  ![My GitHub Game](game.gif)
 </div>
+
+![My GitHub Game](game.gif)
 
 <hr/>
 
