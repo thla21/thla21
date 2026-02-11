@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 Contributions 🐍</h2>
   <picture>
-  <img src="https://github.com/user-attachments/assets/b6283778-c176-4117-8420-b2cecee8cc78" width="600" />
+  ![My GitHub Game](game.gif)
 </div>
 
 <hr/>
