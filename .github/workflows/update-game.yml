@@ -16,6 +16,6 @@ jobs:
 
       - uses: czl9707/gh-space-shooter@v1
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: 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
           output-path: 'game.gif'
           strategy: 'random'
